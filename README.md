@@ -5,7 +5,7 @@ A simple network scanner in go
 
 # Installation:
 ```
-go get -u https://github.com/krishpranav/network-scanner
+go get -u github.com/krishpranav/network-scanner
 git clone https://github.com/krishpranav/network-scanner
 cd network-scanner
 go build cmd/portscanner/portscanner.go
